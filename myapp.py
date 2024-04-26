@@ -27,3 +27,8 @@ st.write("""
 ## Volume Price
          """)
 st.line_chart(tickerDf.Volume)
+
+st.write("""
+# End
+         """)
+st.line_chart(tickerDf.Volume)
